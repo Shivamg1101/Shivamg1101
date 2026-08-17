@@ -52,15 +52,11 @@
 <br/>
 <div align="center">
 
-<a href="TODO">
+<a href="https://www.linkedin.com/in/shivam-gupta-9a586920b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A101F" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="TODO">
-  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:it@skillcircle.in">
+<a href="mailto:Shivamji00000@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 
