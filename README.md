@@ -28,10 +28,20 @@
 </div>
 
 <!-- ===== PROJECTS ===== -->
+<!-- One image per card, each wrapped in its own <a>. SVG-internal links are
+     inert inside <img>, so this is the only way a card can be clickable. -->
 <br/>
 <br/>
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Shivamg1101/Shivamg1101/main/projects.svg" alt="Projects" />
+
+<a href="projects/ai-and-automation-suite.md"><img src="https://raw.githubusercontent.com/Shivamg1101/Shivamg1101/main/cards/ai-and-automation-suite.svg" width="99%" alt="AI & Automation Suite" /></a>
+<a href="projects/sales-manager-portal.md"><img src="https://raw.githubusercontent.com/Shivamg1101/Shivamg1101/main/cards/sales-manager-portal.svg" width="49%" alt="Sales Manager Portal" /></a>
+<a href="projects/admissions-dashboard.md"><img src="https://raw.githubusercontent.com/Shivamg1101/Shivamg1101/main/cards/admissions-dashboard.svg" width="49%" alt="Admissions Dashboard" /></a>
+<a href="projects/job-portal.md"><img src="https://raw.githubusercontent.com/Shivamg1101/Shivamg1101/main/cards/job-portal.svg" width="49%" alt="Job Portal" /></a>
+<a href="projects/gmb-review-manager.md"><img src="https://raw.githubusercontent.com/Shivamg1101/Shivamg1101/main/cards/gmb-review-manager.svg" width="49%" alt="GMB Review Manager" /></a>
+<a href="projects/performance-hub.md"><img src="https://raw.githubusercontent.com/Shivamg1101/Shivamg1101/main/cards/performance-hub.svg" width="49%" alt="Performance Hub" /></a>
+<a href="projects/ticket-flix.md"><img src="https://raw.githubusercontent.com/Shivamg1101/Shivamg1101/main/cards/ticket-flix.svg" width="49%" alt="Ticket Flix" /></a>
+
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
